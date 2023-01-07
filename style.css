@@ -1,0 +1,32 @@
+body{
+    padding: 5px 10px 10px;
+    margin: 5px 10px 10px;
+    border: 5px 10px 10px;
+}
+#front{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 1px 5px 8px;
+    margin-top: 2px;
+}
+h1{
+    font-size: 2.2rem;
+    text-underline-position: under;
+}
+p{
+    font-size: 1.5rem;
+}
+a{
+    margin-top: 5px;
+    border-bottom: 20px;
+    font-size: 1.5rem;
+    border-bottom: 10px;
+    border-top: 20px;
+    color: black;
+}
+.last{
+ font-size: 1.5rem;   
+}
+img{
+    margin-bottom: 10px;
+}
